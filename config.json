@@ -1,8 +1,7 @@
 {
-  "discord_token": "bot token",
-  "botid": "id del bot",
-  "prefix": "y!",
-  "yt_api_key": "api key de youtube",
-  "ownerid": "tu discord id",
-  "sc_clientid": "tu soundcloud client id"
+  "discord_token": "ODY3ODE1MjE5MDA2MTQ0NTEy.YPml5w.3ZXwZofDhScpM5vNCB4C2A6wpCY",
+  "botid": "867815219006144512",
+  "prefix": "c!",
+  "yt_api_key": "AIzaSyDfuHPAxDsCeIEyMY0z8hanM6tzQW1_crU",
+  "ownerid": "Franco Saldaña#7951",
 }
